@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qSLdvJAuCIw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\manoj\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\CakeMod\\CakeMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manoj\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
