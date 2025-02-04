@@ -1,3 +1,4 @@
 displayName = Cake Mod
 author = ManojC0 and Jacks970
 version = 0.1
+include = Items/Buffs/UpsideDownCakeBuff.cs

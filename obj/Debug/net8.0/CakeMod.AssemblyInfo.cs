@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CakeMod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6cb2cbdd4f06b0ba3e46cc1cca969027c769f81")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3908261ce4cc972579c63321ef80cfe0a336b6e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("CakeMod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CakeMod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
