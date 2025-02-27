@@ -18,12 +18,13 @@ namespace CakeMod.Content.Items.Buffs
 			Main.buffNoTimeDisplay[Type]=false;
 			Main.debuff[Type] = false;
             BuffID.Sets.IsWellFed[Type] = true;
+			
 		}
 
         public override void Update(Player player, ref int buffIndex)
         {
 			player.AddBuff(18,14400);
-			//player.AddBuff(2,14400);
+			player.AddBuff(2,14400);
         }
     }
 }

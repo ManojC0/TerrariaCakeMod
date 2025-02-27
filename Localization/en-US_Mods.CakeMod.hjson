@@ -8,6 +8,6 @@ Items: {
 Buffs: {
 	UpsideDownCakeBuff: {
 		DisplayName: Upside Down Cake Buff
-		Description: Mods.CakeMod.Buffs.UpsideDownCakeBuff.Description
+		Description: "'Nice cake'"
 	}
 }
